@@ -1,0 +1,16 @@
+{
+    "name": "jcriotte/quete_composer_2",
+    "description": "Projet quete composer",
+    "autoload": {
+        "psr-4": {
+            "src\\Wcs\\": "src/Wcs"
+        }
+    },
+    "authors": [
+        {
+            "name": "JC",
+            "email": "jcriotte69@gmail.com"
+        }
+    ],
+    "require": {}
+}
